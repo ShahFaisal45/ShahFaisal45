@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a **Senior Data Engineer** with extensive expe
 ## 🏆 Core Expertise
 
 ### Data Engineering & Architecture
-- **Data Pipeline Design & Orchestration**: Apache Airflow, Dagster, Prefect
+- **Data Pipeline Design & Orchestration**: Apache Airflow, Dagster, Prefect, Airbyte
 - **ETL/ELT Development**: Complex data transformations at scale
 - **Data Warehouse Architecture**: Snowflake, BigQuery, Redshift
 - **Data Modeling**: Dimensional modeling, Star schema, Data vault
@@ -47,6 +47,14 @@ Welcome to my GitHub profile! I'm a **Senior Data Engineer** with extensive expe
 
 </div>
 
+<div align="center">
+
+![Airbyte](https://img.shields.io/badge/Airbyte-622FD7?style=for-the-badge&logo=airbyte&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF6849?style=for-the-badge&logo=dbt&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+</div>
+
 ## 💼 Skills
 
 ### Languages & Databases
@@ -59,17 +67,21 @@ Welcome to my GitHub profile! I'm a **Senior Data Engineer** with extensive expe
 ### Data Engineering & Cloud
 - **AWS S3 Bucket, EC2, Lambda** - Cloud Infrastructure & Serverless Computing
 - **Apache Airflow** - Workflow Orchestration & Pipeline Scheduling
+- **Airbyte** - Data Integration & ELT Pipeline Framework
 - **dbt** - Data Transformation & Analytics Engineering
 - **Data Visualization - Tableau** - Business Intelligence & Analytics
 
 ### Advanced Techniques
 - **Data Modelling** - Dimensional modeling, schema design, data vault architecture
-- **Airflow** - Complex workflow orchestration & scheduling
+- **ETL/ELT** - End-to-end pipeline design with Airflow, Airbyte, dbt
+- **Data Integration** - Seamless data movement across systems
 
 ### Technical Stack
 - **Big Data**: Apache Spark, Databricks, Hadoop, PySpark
-- **Data Tools**: dbt, Tableau, Looker, Apache Kafka, Great Expectations
+- **Orchestration & Integration**: Apache Airflow, Airbyte, dbt, Dagster
+- **Visualization & BI**: Tableau, Looker, Data Studio
 - **Databases**: PostgreSQL, MySQL, Snowflake, BigQuery, MongoDB, Redshift
+- **Data Tools**: Apache Kafka, Great Expectations, Kafka Connect
 - **DevOps**: Docker, Kubernetes, Git, CI/CD Pipelines, Terraform, CloudFormation
 - **Cloud & Infrastructure**: AWS (S3, EC2, Lambda, Glue), GCP, Azure
 
@@ -89,6 +101,9 @@ End-to-end data platform with Python ETL preprocessing and Tableau dashboard vis
 
 ✅ Designing scalable, maintainable data architectures  
 ✅ Building robust ETL/ELT pipelines for large-scale data processing  
+✅ Data integration using Airbyte and traditional ETL tools  
+✅ Data transformation with dbt and SQL  
+✅ Creating insightful dashboards with Tableau  
 ✅ Optimizing query performance and data warehouse efficiency  
 ✅ Implementing data quality and governance frameworks  
 ✅ Mentoring junior engineers and leading data projects  
@@ -104,8 +119,9 @@ End-to-end data platform with Python ETL preprocessing and Tableau dashboard vis
 
 Open to collaborations on:
 - Data engineering architecture & infrastructure
-- Large-scale ETL/ELT projects
-- Data platform development
+- Large-scale ETL/ELT projects with Airflow, Airbyte & dbt
+- Data platform development and modernization
+- Tableau dashboard and BI development
 - Technical mentoring and consulting
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shah-faisal256/)
