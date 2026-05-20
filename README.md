@@ -1,6 +1,6 @@
 # Hi, I'm Shah Faisal 👋
 
-Welcome to my GitHub profile! I'm a **Data Engineer** with extensive experience designing and building scalable data infrastructure, ETL/ELT systems, and data-driven solutions that power business intelligence and analytics.
+Welcome to my GitHub profile! I'm a **Senior Data Engineer** with extensive experience designing and building scalable data infrastructure, ETL/ELT systems, and data-driven solutions that power business intelligence and analytics.
 
 ## 🚀 About Me
 
@@ -30,12 +30,60 @@ Welcome to my GitHub profile! I'm a **Data Engineer** with extensive experience 
 - **Performance Optimization**: Query optimization, indexing strategies
 - **Security & Compliance**: Data encryption, access control, PII handling
 
+## 🛠️ Languages and Tools
+
+<div align="center">
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+## 💼 Skills
+
+### Languages & Databases
+- **Python** - Advanced
+- **SQL** - Expert Level
+- **Snowflake** - Data Warehouse Architecture
+- **PostgreSQL** - Database Design & Optimization
+- **MySQL** - Relational Database Management
+
+### Data Engineering & Cloud
+- **AWS S3 Bucket, EC2, Lambda** - Cloud Infrastructure & Serverless Computing
+- **Apache Airflow** - Workflow Orchestration & Pipeline Scheduling
+- **dbt** - Data Transformation & Analytics Engineering
+- **Data Visualization - Tableau** - Business Intelligence & Analytics
+
+### Advanced Techniques
+- **Data Modelling** - Dimensional modeling, schema design, data vault architecture
+- **Airflow** - Complex workflow orchestration & scheduling
+
 ### Technical Stack
-- **Languages**: Python (Advanced), SQL (Expert), Scala, Java
-- **Data Tools**: dbt, Tableau, Looker, Apache Kafka, Spark
-- **Databases**: PostgreSQL, MySQL, Snowflake, BigQuery, MongoDB
-- **DevOps**: Docker, Kubernetes, Git, CI/CD Pipelines
-- **Cloud & Infrastructure**: AWS, GCP, Terraform, CloudFormation
+- **Big Data**: Apache Spark, Databricks, Hadoop, PySpark
+- **Data Tools**: dbt, Tableau, Looker, Apache Kafka, Great Expectations
+- **Databases**: PostgreSQL, MySQL, Snowflake, BigQuery, MongoDB, Redshift
+- **DevOps**: Docker, Kubernetes, Git, CI/CD Pipelines, Terraform, CloudFormation
+- **Cloud & Infrastructure**: AWS (S3, EC2, Lambda, Glue), GCP, Azure
+
+## 💼 Featured Projects
+
+### [BHT Advanced SE Project](https://github.com/ShahFaisal45/BHT-Advanced-SE-Project)
+Comprehensive data engineering solution for EV charging demand analysis in Berlin using advanced data pipeline architecture and statistical analysis.
+- **Demonstrated**: Data pipeline design, data quality, analytics implementation
+- **Tech**: Python, Data Engineering, Software Architecture
+
+### [Olist E-commerce Dashboard](https://github.com/ShahFaisal45/Olist_Ecommerce_Dashboard)
+End-to-end data platform with Python ETL preprocessing and Tableau dashboard visualization. Showcases complete data pipeline from ingestion to insights.
+- **Demonstrated**: ETL pipeline development, data transformation, BI integration
+- **Tech**: Python, Tableau, Data Visualization, Analytics
 
 ## 🎯 Key Strengths
 
@@ -45,6 +93,8 @@ Welcome to my GitHub profile! I'm a **Data Engineer** with extensive experience 
 ✅ Implementing data quality and governance frameworks  
 ✅ Mentoring junior engineers and leading data projects  
 ✅ Cross-functional collaboration with analytics and engineering teams  
+✅ Cloud infrastructure design and optimization (AWS, GCP, Azure)  
+✅ Advanced data modeling and transformation techniques  
 
 ## 📊 GitHub Stats
 
