@@ -1,6 +1,6 @@
 # Hi, I'm Shah Faisal 👋
 
-Welcome to my GitHub profile! I'm a **Senior Data Engineer** with extensive experience designing and building scalable data infrastructure, ETL/ELT systems, and data-driven solutions that power business intelligence and analytics.
+Welcome to my GitHub profile! I'm a **Data Engineer** with extensive experience designing and building scalable data infrastructure, ETL/ELT systems, and data-driven solutions that power business intelligence and analytics.
 
 ## 🚀 About Me
 
@@ -12,11 +12,11 @@ Welcome to my GitHub profile! I'm a **Senior Data Engineer** with extensive expe
 ## 🏆 Core Expertise
 
 ### Data Engineering & Architecture
-- **Data Pipeline Design & Orchestration**: Apache Airflow, Dagster, Prefect, Airbyte
+- **Data Pipeline Design & Orchestration**: Apache Airflow, Airbyte
 - **ETL/ELT Development**: Complex data transformations at scale
 - **Data Warehouse Architecture**: Snowflake, BigQuery, Redshift
 - **Data Modeling**: Dimensional modeling, Star schema, Data vault
-- **Real-time Data Streaming**: Kafka, Apache Spark Streaming, Flink
+- **Real-time Data Streaming**: Kafka, Apache Spark Streaming
 
 ### Big Data Technologies
 - **Apache Spark**: Distributed computing, PySpark optimization
@@ -86,25 +86,13 @@ Welcome to my GitHub profile! I'm a **Senior Data Engineer** with extensive expe
 - **DevOps**: Docker, Kubernetes, Git, CI/CD Pipelines, Terraform, CloudFormation
 - **Cloud & Infrastructure**: AWS (S3, EC2, Lambda, Glue), GCP, Azure
 
-## 💼 Featured Projects
-
-### [BHT Advanced SE Project](https://github.com/ShahFaisal45/BHT-Advanced-SE-Project)
-Comprehensive data engineering solution for EV charging demand analysis in Berlin using advanced data pipeline architecture and statistical analysis.
-- **Demonstrated**: Data pipeline design, data quality, analytics implementation
-- **Tech**: Python, Data Engineering, Software Architecture
-
-### [Olist E-commerce Dashboard](https://github.com/ShahFaisal45/Olist_Ecommerce_Dashboard)
-End-to-end data platform with Python ETL preprocessing and Tableau dashboard visualization. Showcases complete data pipeline from ingestion to insights.
-- **Demonstrated**: ETL pipeline development, data transformation, BI integration
-- **Tech**: Python, Tableau, Data Visualization, Analytics
-
 ## 🎯 Key Strengths
 
 ✅ Designing scalable, maintainable data architectures  
 ✅ Building robust ETL/ELT pipelines for large-scale data processing  
-✅ Data integration using Airbyte and traditional ETL tools  
+✅ Data integration using Airbyte/Airflow and traditional ETL tools  
 ✅ Data transformation with dbt and SQL  
-✅ Creating insightful dashboards with Tableau  
+✅ Creating insightful dashboards with Tableau/ Power BI 
 ✅ Optimizing query performance and data warehouse efficiency  
 ✅ Implementing data quality and governance frameworks  
 ✅ Mentoring junior engineers and leading data projects  
