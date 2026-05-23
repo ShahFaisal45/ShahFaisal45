@@ -4,9 +4,8 @@ Welcome to my GitHub profile! I'm a **Data Engineer** with extensive experience 
 
 ## 🚀 About Me
 
-- 💼 **Senior Data Engineer** | Data Architecture & Infrastructure Specialist
-- 🎓 Software Engineer with advanced Data Engineering expertise
-- 🌍 Based in Berlin
+- 💼 **Data Engineer** | Data Architecture & Infrastructure Specialist
+- 🌍 Based in Berlin, Germany
 - 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/shah-faisal256/)
 
 ## 🏆 Core Expertise
